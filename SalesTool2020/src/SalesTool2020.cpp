@@ -15,6 +15,8 @@ void displayGreeting() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	cout << "Woot! It pushed!" << endl;  // prints another line
 
+	cout << "Test 1" << endl;
+
 }
 
 
