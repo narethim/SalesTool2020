@@ -9,6 +9,12 @@
 #include <iostream>
 using namespace std;
 
+void displayData() {
+
+	cout << "Some data" << endl;
+
+}
+
 
 void displayGreeting() {
 
@@ -22,6 +28,8 @@ void displayGreeting() {
 
 int main() {
 	displayGreeting();
+
+	displayData();
 
 	return 0;
 }
